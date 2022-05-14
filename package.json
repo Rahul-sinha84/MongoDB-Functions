@@ -1,0 +1,13 @@
+{
+  "name": "mulesoft",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.3"
+  }
+}
