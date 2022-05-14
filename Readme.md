@@ -1,12 +1,13 @@
 # MuleSoft Assessment
 
-### used mongoDb and nodeJS
+### Used MongoDb and NodeJS
 
 Database 'mulesoft' is created in ./src/db/config.js
 
 All Movies Inserted:
 
-```const movies = [
+```
+const movies = [
         {
           name: "Shutter Island",
           actor: "Leonardo DiCaprio",
@@ -51,6 +52,6 @@ Three Type of Query:
 2. By Movie's name
 3. by Actor's name
 
-## All the operations are in ./src/index.js
+### All the operations are in ./src/index.js
 
-## All the Database functions are in ./src/actions/index.js
+### All the Database functions are in ./src/actions/index.js
